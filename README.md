@@ -1,4 +1,4 @@
-# IaaC for Cloud Run
+# IaC for Cloud Run
 
 Create and manage a Cloud Run application in terraform
 
